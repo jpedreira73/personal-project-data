@@ -1,1 +1,1 @@
-"This project manages agricultural data." 
+This is weather data for Belle Glade, FL. It's a ~40yr series that includes temperature, solar radiation and rain.
